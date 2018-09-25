@@ -8,12 +8,12 @@ nothing too fancy (each node can have zero, one or two child nodes).
 
 <b>Banknote Dataset</b>
 The banknote dataset involves predicting whether a given banknote is authentic given a number of measures taken from a photograph.
-The dataset contains 1,372 rows with 5 numeric variables.
-It is a classification problem with two classes (binary classification).
+The dataset contains 1,372 rows with 5 numeric variables.</br>
+It is a classification problem with two classes (binary classification).</br>
 
-Below provides a list of the five variables in the dataset.
-variance of Wavelet Transformed image (continuous).
-skewness of Wavelet Transformed image (continuous).
-kurtosis of Wavelet Transformed image (continuous).
-entropy of image (continuous).
+Below provides a list of the five variables in the dataset.</br>
+variance of Wavelet Transformed image (continuous).</br>
+skewness of Wavelet Transformed image (continuous).</br>
+kurtosis of Wavelet Transformed image (continuous).</br>
+entropy of image (continuous).</br>
 class (integer).
